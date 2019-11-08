@@ -6,8 +6,6 @@ forked from [hellofwy/ss-bash](https://github.com/hellofwy/ss-bash)
 
 适配Ubuntu 16.04
 
-[科学上网：手把手教你搭建自己的Shadowsocks](https://www.flyzy2005.com/fan-qiang/shadowsocks/build-shadowsocks-on-vps/)
-
 * 目前只支持python版Shadowsocks
 * 目前只支持统计ipv4流量
 
